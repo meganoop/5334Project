@@ -2,7 +2,9 @@
 <b> Data mining Course Project - Yelp dataset challenge </b>
 
 <b>Project title:</b> Regional distribution of restaurants in Charlotte
+
 <b>Team members:</b> Meghana Anoop and Saranya Ravichandran
+
 <b>Project website: http://omega.uta.edu/~mxa1002/yelpdata_visualization/  </b>
 
 <b>Motivation</b>
