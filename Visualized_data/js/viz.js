@@ -29,7 +29,7 @@ var custom_bubble_chart = (function(d3, CustomTooltip) {
                   .range(["red","green","blue","yellow"]);
 				  
 
-  var cluster_names = ["Eagle Lake","Carmel","Matthews","Sugar Creek"];
+  var cluster_names = ["Berry Hill","Pineville","Matthews","Mallard Creek"];
  
   function custom_chart(data) {
     var max_amount = d3.max(data, function(d) { return parseInt(d.numb_of_business, 10); } );
